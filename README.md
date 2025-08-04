@@ -76,12 +76,6 @@ This project builds and evaluates several machine learning models to classify th
 
 ---
 
-## ⚠️ Notes
-
-> *Streamlit UI and Ngrok deployment were skipped (bonus/optional steps).*
-
----
-
 ## 🗂️ Project Structure
 
 
