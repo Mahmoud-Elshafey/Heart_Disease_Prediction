@@ -1,0 +1,28 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore data that shouldn't be uploaded
+*.csv
+data/
+
+# Ignore model files
+*.pkl
+models/
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore results
+results/
